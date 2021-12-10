@@ -1,0 +1,2 @@
+@livewire('dashsidebar')
+@livewire('maincontent')
