@@ -1,2 +1,4 @@
-@livewire('dashsidebar')
-@livewire('maincontent')
+<div class="">
+    @livewire('dashsidebar')
+    @livewire('maincontent')
+</div>
